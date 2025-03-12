@@ -1,0 +1,12 @@
+# General dependencies
+requests
+jsonschema
+python-dotenv
+Groq
+langchain    
+CrewAI
+apify
+
+# Optional dependencies
+pandas       
+numpy
