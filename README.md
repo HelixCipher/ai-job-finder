@@ -43,7 +43,7 @@ job_search_ai_agent/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/A-L-E-X-W/ai-job-finder-WIP-.git
+   git clone https://github.com/HelixCipher/ai-job-finder-WIP-.git
 
    cd ai-job-finder-WIP-
 
