@@ -1,5 +1,7 @@
 # Job Search AI Agent System
 
+## NOTE: This is a WIP project
+
 A multi-agent system that automates job searching and career guidance using state-of-the-art language models and web scraping. The system leverages the CrewAI framework to coordinate multiple specialized agents, including a job searcher, skills developer, interview coach, and career advisor.
 
 ## Overview
